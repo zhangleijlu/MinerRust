@@ -126,13 +126,5 @@ functions and I will gladly use them in mithril!
 
 If you want to donate directly to support further development, this is my Monero donation address:
 ```
-48y3RCT5SzSS4jumHm9rRL91eWWzd6xcVGSCF1KUZGWYJ6npqwFxHee4xkLLNUqY4NjiswdJhxFALeRqzncHoToeJMg2bhL
+wechat:  10747xxxxxx
 ```
-
-or support the project on Github Sponsors:
-
-[![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/Ragnaroek)](https://github.com/sponsors/Ragnaroek)
-
-or Paypal:
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A24SWQT3P5DY2&source=url)
